@@ -181,8 +181,15 @@ gcc -o 9_linear_search 9_linear_search.c
 
 ## How to Use
 
-### Compile All Programs
-You can compile all programs at once using:
+### Quick Start - Compile All Programs
+The easiest way to compile all programs is using the provided script:
+```bash
+chmod +x compile_all.sh
+./compile_all.sh
+```
+
+### Manual Compilation
+Alternatively, you can compile programs individually:
 ```bash
 gcc -o 1_dijkstra 1_dijkstra.c
 gcc -o 2_prims 2_prims.c

@@ -8,6 +8,17 @@
 7_binary_tree_traversal
 8_binary_search
 9_linear_search
+singly_linked_list
+doubly_linked_list
+circular_linked_list
+stack_array
+queue_array
+bubble_sort
+selection_sort
+insertion_sort
+merge_sort
+counting_sort
+quicksort
 
 # Ignore object files
 *.o

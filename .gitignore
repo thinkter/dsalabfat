@@ -1,0 +1,33 @@
+# Ignore compiled executables
+1_dijkstra
+2_prims
+3_kruskal
+4_bfs
+5_dfs
+6_bst
+7_binary_tree_traversal
+8_binary_search
+9_linear_search
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore other common build artifacts
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
